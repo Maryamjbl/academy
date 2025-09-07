@@ -672,7 +672,7 @@ Header Style
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #7a6ad8 !important;
+    color: #f0193d !important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -740,11 +740,11 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  background-image: url(../images/banner-item-01.jpg);
+  background-image: url(../images/img1.jpg);
 }
 
 .main-banner .item-2 {
-  background-image: url(../images/banner-item-02.jpg);
+  background-image: url(../images/img2.jpg);
 }
 
 .main-banner .item-3 {
@@ -761,7 +761,7 @@ Banner Style
 }
 
 .main-banner .item span.category {
-  background-color: #7a6ad8;
+  background-color: #fb1d1d;
   color: #fff;
   font-size: 14px;
   text-transform: uppercase;
